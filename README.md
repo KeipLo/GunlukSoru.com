@@ -414,6 +414,8 @@ Takip edilecek bilgiler:
 
   email: "unique",
 
+  createdAt: "DD-MM-YYYY",
+
   passwordHash: "string",
 
   isVerified: false,
