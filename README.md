@@ -285,9 +285,9 @@ Satıra tıklandığında ilgili soru sayfasına yönlendirilir.
 
 ## MVP'de Yer Almayacak Özellikler
 
-* Google ile giriş
-* Apple ile giriş
-* Sosyal giriş sistemleri
+* Google ile giriş vb. sosyal giriş sistemleri
+* Soruyu favorileme, like/dislike atma, soruya local not ekleme
+* Settings/Preferences sayfası
 * Avatar yükleme
 * Profil biyografisi
 * Detaylı kullanıcı profili
