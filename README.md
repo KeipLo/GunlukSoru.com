@@ -9,7 +9,7 @@
 | Proje Adı      | GünlükSoru.com                                                |
 | Ürün Tipi      | Mobil Öncelikli Web Uygulaması                                |
 | Doküman Sahibi | Proje Kurucusu / Ürün Sahibi                                  |
-| Durum          | Taslak (Geliştirmeye Hazır)                                   |
+| Durum          | Yayında / Geliştirme Aşamasında                               |
 | Hedef Kitle    | Türkiye'de YKS (TYT/AYT) hazırlanan lise ve mezun öğrencileri |
 
 ### Teknoloji Yığını (Tech Stack)
@@ -289,6 +289,7 @@ Satıra tıklandığında ilgili soru sayfasına yönlendirilir.
 * Soruyu favorileme, like/dislike atma, soruya local not ekleme
 * Settings/Preferences sayfası
 * Avatar yükleme
+* Achievement sistemi
 * Profil biyografisi
 * Detaylı kullanıcı profili
 * Reklam entegrasyonları
